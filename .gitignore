@@ -169,3 +169,5 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+04_multi_agent/data/
+03_rag/chroma_store/
